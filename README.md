@@ -1,3 +1,7 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/bharat-gadde/step-functions-go-activity-worker)](https://goreportcard.com/report/github.com/bharat-gadde/step-functions-go-activity-worker)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/bharat-gadde/step-functions-go-activity-worker)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/bharat-gadde/step-functions-go-activity-worker?include_prereleases)
+
 # step-functions-go-activity-worker
 
 ## Step Functions Activity Worker for Go
