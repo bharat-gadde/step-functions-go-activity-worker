@@ -3,7 +3,7 @@ module github.com/bharat-gadde/step-functions-go-activity-worker
 go 1.18
 
 require (
-	github.com/aws/aws-sdk-go v1.44.159
+	github.com/aws/aws-sdk-go v1.44.220
 	github.com/go-logr/logr v1.2.3
 	github.com/go-logr/stdr v1.2.2
 	github.com/google/uuid v1.3.0
